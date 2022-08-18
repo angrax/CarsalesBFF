@@ -1,7 +1,6 @@
 ﻿using CarsalesBFF.HttpClient.Episode;
 using Newtonsoft.Json;
 using System.Web;
-using System;
 using System.Text.RegularExpressions;
 
 namespace CarsalesBFF.HttpClient
